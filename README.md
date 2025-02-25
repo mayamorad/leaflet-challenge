@@ -31,6 +31,3 @@ The final visualization will resemble this:
 Data Source: [USGS Earthquake Data API](https://earthquake.usgs.gov/)  
 Leaflet Library: [Leaflet.js](https://leafletjs.com/)
 
-## License
-This project is licensed under the MIT License.
-
